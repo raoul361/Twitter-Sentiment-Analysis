@@ -1,8 +1,8 @@
 #Twitter Sentiment Analysis
 
-One of the things I wanted to try was running **sentiment analysis** as a way of measuring **external risk** for an organisation. This could be many forms - public protest, user dissatisfaction or political turmoil. 
+One of the things I wanted to try was running **sentiment analysis** as a way of measuring **external risk** for an organisation. This could be many forms - public protest, user dissatisfaction or disaster response/early warning. 
 
-My use cases revolve very much around taking this real time information into the context of a **Security Operations Centre** and using it to be a leading indicator for potential malicious activity. Friends have suggested using this to measure failure of changes in DevOps environments; I'm sure there are plenty of others as we will see.
+My use cases revolve very much around taking this real time information into the context of a **Security Operations Centre** and using it as a leading indicator for potential malicious activity. Friends have suggested using this to measure failure of changes in DevOps environments; I'm sure there are plenty of others as we will see.
 
 
 First thing is first; I'm using twitter, but this could easily be applied to any other text based digital channel - email, facebook, SMS. 
